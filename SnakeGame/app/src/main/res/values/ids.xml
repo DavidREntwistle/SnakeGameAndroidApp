@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="start_game_button" type="id" />
+    <item name="leaderboard_button" type="id" />
+    <item name="countdown_text_view" type="id" />
+    <item name="back_button" type="id" />
+</resources>
